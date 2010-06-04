@@ -1,0 +1,11 @@
+CVS_URI=":pserver:cygwinports@cvs.dev.java.net:/cvs"
+CVS_MODULE="jsr250/api"
+inherit ant cvs
+
+
+HOMEPAGE="https://jsr250.dev.java.net/"
+
+ANT_INSTALL_JARS="dist/jsr250/lib/*.jar"
+ANT_INSTALL_JAVADOC="dist/jsr250/docs/api"
+
+DOCS="CDDLv1.0.1.txt"

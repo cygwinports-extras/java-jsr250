@@ -1,0 +1,6 @@
+category: Java
+requires: 
+sdesc: "Java Common Annotations (JSR 250) API"
+ldesc: "JSR 250 provides annotations for common semantic concepts in the 
+J2SE and J2EE platforms that apply across a variety of individual 
+technologies."
